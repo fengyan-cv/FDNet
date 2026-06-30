@@ -1,4 +1,2 @@
 # FDNet
-
-
-The code will be updated after acceptence.
+The code will be uploaded after the paper is accepted.
