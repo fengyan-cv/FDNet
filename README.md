@@ -1,6 +1,3 @@
-# FDNet
-
-
 # \[TMM 2025\]Frequency Decoupled Cross-modal Network with Query Refinement for RGB-D Salient Object Detection
 This is the official code repository for "Frequency Decoupled Cross-modal Network with Query Refinement for RGB-D Salient Object Detection." The paper can be found at [Link](https://ieeexplore.ieee.org/abstract/document/11718612)
 
