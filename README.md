@@ -6,4 +6,4 @@ This is the official code repository for "Frequency Decoupled Cross-modal Networ
 
 
 # Predictions
-Saliency maps on RGB-D SOD, RGB-T SOD, RGB-D COD datasets can be found here. [Baidu Disk code:753s](https://pan.baidu.com/s/1FNcO1T-vpb27u6bcDfMGBw?pwd=753s)
+Saliency maps on RGB-D SOD, RGB-T SOD, RGB-D COD datasets can be found here. Baidu Disk (code:753s)[Link](https://pan.baidu.com/s/1FNcO1T-vpb27u6bcDfMGBw?pwd=753s)
